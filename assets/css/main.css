@@ -56,7 +56,7 @@ body {
 }
 
 mark {
-	background-color: transparent;
+	background-color: rgb(167, 209, 234);
 	color: inherit;
 }
 
